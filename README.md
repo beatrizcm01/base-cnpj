@@ -1,4 +1,2 @@
 # dados_CNPJ
-Este projeto envolve a extração de dados públicos da Receita Federal para a futura construção de um banco de dados relacional.
-O script em Python utiliza Web Scrapping para realizar os downloads dos arquivos e é feita a descompatação, 
-reorganização e transformação dos arquivos .csv em .parquet.
+This project consists of extracting public data from the Governement Website to insert them into a relational database. The python script use Web Scrapping to download the files and extract and transform them.
